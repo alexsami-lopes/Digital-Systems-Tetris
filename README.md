@@ -1,4 +1,4 @@
-# [Versão em Português (Brasil)](README-PTbr.md)
+# [Clique aqui para ver a versão em Português (Brasil)](README-PTbr.md)
 
 
 ---
